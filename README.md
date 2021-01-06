@@ -17,13 +17,16 @@ Nous avons opti pour l'utilisation de l'API publique Cheapshark qui est un site 
 ![2](https://user-images.githubusercontent.com/75087781/103780072-d2cb6a80-5034-11eb-84f2-7b80f827cd27.png)
 
 ![3](https://user-images.githubusercontent.com/75087781/103809753-4338b280-505a-11eb-8c1f-d4100def6b7b.png)
+### Affichage sous format json avec la fonction suivante 
+![image](https://user-images.githubusercontent.com/75087781/103817142-65d0c880-5066-11eb-88bb-9165a2442fe3.png)
 
-
+### la fonction ci-dessous nous à permet d afficher le dictionnaire de données de ces API  (Liste des attributs possible)
 ![4](https://user-images.githubusercontent.com/75087781/103809769-4c298400-505a-11eb-8a0b-751c33ca8a69.png)
 
-
+### Affichage en format dataframe 
 ![5](https://user-images.githubusercontent.com/75087781/103809780-50ee3800-505a-11eb-93bf-092fcbba4897.png)
-
+### On à fais un data cleaning pour afficher les colonnes désirées 
+### 
 ![image](https://user-images.githubusercontent.com/75087781/103811158-c5c27180-505c-11eb-8b04-4d4d413937ee.png)
 
 ![6](https://user-images.githubusercontent.com/75087781/103809792-55b2ec00-505a-11eb-86f5-b7cb7bedb73d.png)
