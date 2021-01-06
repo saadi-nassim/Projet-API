@@ -6,7 +6,7 @@
 #### Ilhem ATROUN 
 
 #### Présentation de l'API 
-#### Nous avons opti pour l'utilisation de l'API publique Cheapshark qui est un site de comparaison de prix pour les jeux PC numérique. nous suivons les prix dans plusieurs magasins, notamment strram, GreenMangaming , fanatical et bien d'autres, notre api consiste à suivre les propriétés prix + métadonnées pour les jeux d'un magasin donné ainsi les bons plans.
+Nous avons opti pour l'utilisation de l'API publique Cheapshark qui est un site de comparaison de prix pour les jeux PC numérique. nous suivons les prix dans plusieurs magasins, notamment strram, GreenMangaming , fanatical et bien d'autres, notre api consiste à suivre les propriétés prix + métadonnées pour les jeux d'un magasin donné ainsi les bons plans.
 
 
 ![1](https://user-images.githubusercontent.com/75087781/103780027-c21af480-5034-11eb-99e2-d42a2a583845.png)
