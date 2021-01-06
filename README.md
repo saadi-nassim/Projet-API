@@ -1,6 +1,8 @@
 ##                                                              Projet_Bases de données -API
 
-### Réalisé par :     Nassim SAADI        Sid-Ali DJABELLA         Ilhem ATROUN 
+### Réalisé par :     Nassim SAADI    -    Sid-Ali DJABELLA   -      Ilhem ATROUN 
+### Encadré par : Mr Léo SOUQUET 
+### Université Paris Est Créteil 
 
 
 #### Présentation de l'API 
