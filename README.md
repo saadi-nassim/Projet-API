@@ -33,13 +33,13 @@ Nous avons opti pour l'utilisation de l'API publique Cheapshark qui est un site 
 ![6](https://user-images.githubusercontent.com/75087781/103809792-55b2ec00-505a-11eb-86f5-b7cb7bedb73d.png)
 ### création d'une table nommée Jeux dans notre base de données SQL 
 ![8](https://user-images.githubusercontent.com/75087781/103809822-66fbf880-505a-11eb-9104-7edc490220f3.png)
-### chargement des données avec la fonction suivante à partir de jupyter notebook  
+### Notre table avant le remplissage 
 ![image](https://user-images.githubusercontent.com/75087781/103811030-8562f380-505c-11eb-9c30-724a6f92eb72.png)
-
+### chargement des données avec la fonction suivante à partir de jupyter notebook
 ![7](https://user-images.githubusercontent.com/75087781/103809802-59df0980-505a-11eb-88f3-a37110faec89.png)
 
-
+### L'affichage aprés le remplissage de la table Jeux 
 
 ![9](https://user-images.githubusercontent.com/75087781/103809831-6bc0ac80-505a-11eb-9eb0-52e05b4e9592.png)
-
+### Test avec une requette sur SQL Server 
 ![image](https://user-images.githubusercontent.com/75087781/103813964-34093300-5061-11eb-8362-efcbf9cacac0.png)
