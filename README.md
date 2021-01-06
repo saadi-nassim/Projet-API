@@ -9,9 +9,11 @@
 Nous avons opti pour l'utilisation de l'API publique Cheapshark qui est un site de comparaison de prix pour les jeux PC numérique. nous suivons les prix dans plusieurs magasins, notamment strram, GreenMangaming , fanatical et bien d'autres, notre api consiste à suivre les propriétés prix + métadonnées pour les jeux d'un magasin donné ainsi les bons plans.
 
 
+### Imporation de l'API sur python 
+
 ![1](https://user-images.githubusercontent.com/75087781/103780027-c21af480-5034-11eb-99e2-d42a2a583845.png)
 
-## 
+
 ![2](https://user-images.githubusercontent.com/75087781/103780072-d2cb6a80-5034-11eb-84f2-7b80f827cd27.png)
 
 ![3](https://user-images.githubusercontent.com/75087781/103809753-4338b280-505a-11eb-8c1f-d4100def6b7b.png)
