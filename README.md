@@ -1,9 +1,10 @@
 ##                                                              Projet_Bases de données -API
+***
 
 ### Réalisé par :     Nassim SAADI    -    Sid-Ali DJABELLA   -      Ilhem ATROUN 
 ### Encadré par : Mr Léo SOUQUET 
 ### Université Paris Est Créteil 
-
+***
 
 #### Présentation de l'API 
 Nous avons opti pour l'utilisation de l'API publique Cheapshark qui est un site de comparaison de prix pour les jeux PC numérique. nous suivons les prix dans plusieurs magasins, notamment strram, GreenMangaming , fanatical et bien d'autres, notre api consiste à suivre les propriétés prix + métadonnées pour les jeux d'un magasin donné ainsi les bons plans.
