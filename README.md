@@ -7,7 +7,8 @@
 ***
 
 #### Présentation de l'API 
-Nous avons opti pour l'utilisation de l'API publique Cheapshark qui est un site de comparaison de prix pour les jeux PC numérique. nous suivons les prix dans plusieurs magasins, notamment strram, GreenMangaming , fanatical et bien d'autres, notre api consiste à suivre les propriétés prix + métadonnées pour les jeux d'un magasin donné ainsi les bons plans.
+Nous avons opté pour l'utilisation de l'API publique CheapShark, un site de comparaison de prix pour les jeux PC numériques. Cette API permet de suivre les prix dans plusieurs magasins, notamment Steam, GreenManGaming, Fanatical et bien d'autres.
+Notre solution utilise cette API pour récupérer à la fois les prix et les métadonnées des jeux d’un magasin donné, ainsi que pour identifier les bons plans disponibles.
 
 
 ### Imporation de l'API sur python 
